@@ -1,5 +1,5 @@
 # i2c_scanner
-Scan for your i2c device's slave address
+Scan for your i2c device's slave address; yes
 
 I had some parts lying around, and I wanted to give them some purpose. So I went ahead and pimped my breadboard with an i2c scanner. The scanner basically looks for the device's slave address then displays it on the LCD screen. This makes it easier to find the address without diving into the datasheet. I still suggest  CTRL+F the displayed slave address within the datasheet to confirm. 
 For this project, 
